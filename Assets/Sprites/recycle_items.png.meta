@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 852176dbf99c54122bf03f643599ff2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -806415066056697924
+    second: recycle_items_0
+  - first:
+      213: 1043442747385290943
+    second: recycle_items_1
+  - first:
+      213: -8075080999890912046
+    second: recycle_items_2
+  - first:
+      213: -2476258253311705711
+    second: recycle_items_3
+  - first:
+      213: 5740961901574564063
+    second: recycle_items_4
+  - first:
+      213: 5435821699272093448
+    second: recycle_items_5
+  - first:
+      213: 2269047082188048265
+    second: recycle_items_6
+  - first:
+      213: 1300672506531497445
+    second: recycle_items_7
+  - first:
+      213: 1276133046112500958
+    second: recycle_items_8
+  - first:
+      213: -3073328907359574357
+    second: recycle_items_9
+  - first:
+      213: 5552002940746071778
+    second: recycle_items_10
+  - first:
+      213: 242945838433551811
+    second: recycle_items_11
+  - first:
+      213: 1565831748363409520
+    second: recycle_items_12
+  - first:
+      213: -7593663360690973604
+    second: recycle_items_13
+  - first:
+      213: -3732252094069606516
+    second: recycle_items_14
+  - first:
+      213: -4369724801813180756
+    second: recycle_items_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: recycle_items_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899e3c2e5be7a4815bdcd796cd356c6a
+      internalID: -996167888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recycle_items_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3259f8d64cb94f1d9c65ed1ab2bab10
+      internalID: -2109670458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recycle_items_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b962b805582f43b6bebf1d0ecd5204b
+      internalID: -1763523480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recycle_items_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feec2c7f04f284e0ebf2a802560a8fc4
+      internalID: -161332608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recycle_items_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc65702f362b4cd4a8df9268081ba31
+      internalID: 2024812127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recycle_items_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fc780bc8fab4d569bef95c3c7e4184
+      internalID: -904327680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recycle_items_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344fef4e900fa487dbe75ff776d6ee30
+      internalID: -58568120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recycle_items_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcdcc01359b840aabb6b77588e36ec6
+      internalID: -1454657754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recycle_items_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5c74b4775da4bd699e06f4bbb4ee7b
+      internalID: 1760572175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recycle_items_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e342e805f37c48e8be7a9c3cc30dd58
+      internalID: -563792308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recycle_items_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9222859603b4ab093e95efe7725e46
+      internalID: 759627000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recycle_items_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06b7974a09f84873a1242049cc92258
+      internalID: -1639758970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recycle_items_12
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99339eb7c0e734801843c31d031311eb
+      internalID: -171478252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recycle_items_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6902d076b608141dc8f69b023c2b7cdf
+      internalID: 1715498778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recycle_items_14
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0248e134bed464766b49c957f645d1b8
+      internalID: 1698405962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recycle_items_15
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39ba789f54714d8e89ba166860fe972
+      internalID: 187913890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5a7c4e9b4db0e467587ecccfcf56f282
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      recycle_items_0: -996167888
+      recycle_items_1: -2109670458
+      recycle_items_10: 759627000
+      recycle_items_11: -1639758970
+      recycle_items_12: -171478252
+      recycle_items_13: 1715498778
+      recycle_items_14: 1698405962
+      recycle_items_15: 187913890
+      recycle_items_2: -1763523480
+      recycle_items_3: -161332608
+      recycle_items_4: 2024812127
+      recycle_items_5: -904327680
+      recycle_items_6: -58568120
+      recycle_items_7: -1454657754
+      recycle_items_8: 1760572175
+      recycle_items_9: -563792308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

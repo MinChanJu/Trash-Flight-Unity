@@ -1,0 +1,35 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Aa]ssets/StreamingAssets/
+obj/
+Build/
+Builds/
+Logs/
+test/
+
+# Ignore Unity's temporary utmp folder
+.utmp
+
+# User-specific files
+[Dd]esigner.cs
+.vscode/
+.idea/
+.vs/
+
+# Windows Installer files
+Thumbs.db
+Desktop.ini
+
+# OSX Finder files
+.DS_Store
+
+# Windows specific files
+ehthumbs.db
+
+# Project specific files
+*.csproj
+*.sln
+*.user
+*.userprefs
+Trash Flight_BurstDebugInformation_DoNotShip/
